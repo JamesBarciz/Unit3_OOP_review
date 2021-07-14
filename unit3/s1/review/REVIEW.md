@@ -13,7 +13,7 @@ You joined the startup FIRESTORM&trade; which aims to develop the next MMO.  You
 2. In `review.py` create a class called BaseCharacter which takes one arguement `name`.
 
     - In the constructor, use reflection to instantiate the `name` attribute and add the following fields:
-        - int = 3 (intellect)
+        - intel = 3 (intellect)
         - stam = 3 (stamina)
         - strn = 3 (strength)
         - agi = 3 (agility)
@@ -25,7 +25,7 @@ You joined the startup FIRESTORM&trade; which aims to develop the next MMO.  You
 
     - Create a variable called `stat_increase` which will be equal to `3 * increment`.  This will be how much each stat (besides level) will increase each time the character levels up.
 
-    - Create a for loop that will iterate through the class attributes and increment the main stats `int, stam, strn` and `agi` by `stat_increase` and the `level` by the value of `increment`.  This can be accomplished using a built-in Python function and a dunder (__) method in the class object but, if this is too challenging, feel free to code out each attribute and increment them as mentioned in the previous statement.
+    - Create a for loop that will iterate through the class attributes and increment the main stats `intel, stam, strn` and `agi` by `stat_increase` and the `level` by the value of `increment`.  This can be accomplished using a built-in Python function and a dunder (__) method in the class object but, if this is too challenging, feel free to code out each attribute and increment them as mentioned in the previous statement.
 
     - Once that is done, print (don't return) a block of text (or multiple print statements) stating the following:
 
