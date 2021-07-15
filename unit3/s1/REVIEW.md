@@ -75,7 +75,7 @@ You joined the startup FIRESTORM&trade; which aims to develop the next MMO.  You
    
    - Now that we have made our pytest fixtures, let's make some tests!
    
-4. Create a new file called `test_< something >.py` replacing the carats and content with something relevant to what you are testing.
+4. Create a new file called `test_<something>.py` replacing the carats and content with something relevant to what you are testing.
 
    - Create at least **four** different tests total which will test both class attributes and methods you made in your source code.
    
