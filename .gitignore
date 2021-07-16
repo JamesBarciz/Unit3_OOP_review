@@ -1,6 +1,4 @@
-unit3/s1/review.py
-unit3/s1/__pycache__/
-unit3/s1/__init__.py
-unit3/s1/tests/
+s1/__pycache__/
+s1/.pytest_cache/
 venv/
 .idea/
